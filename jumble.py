@@ -1,5 +1,5 @@
-""" In this game there are two players, computer will through a jumbled question to the player and the player had to answer it accordingly
-"""
+""" In this game there are two players, computer will throw a jumbled question to the player and the player had to answer it accordingly"""
+
 
 import random
 
